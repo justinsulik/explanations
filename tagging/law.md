@@ -1,6 +1,6 @@
 You will be shown about 20 explanations that people gave in response to a "Why" question, such as "Why do lightbulbs glow when the electricity is turned on?" or "Why do deer have antlers?"
 
-You need to rate how **general** each explanation is. For instance, the fact that it is October 24 2017 is only true on the day that I am typing this. The fact that $1+1=2$ is always true, universally. 
+You need to rate how **general** each explanation is. For instance, the fact that it is October 24 2017 is only true on the day that I am typing this. The fact that 1+1=2 is always true, universally. 
 
 The following will give you some guidance and further examples for each rating. 
 
