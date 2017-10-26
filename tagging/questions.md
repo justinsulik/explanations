@@ -5,7 +5,7 @@ Please remember that each question could be asking about several different kinds
 
 ## Physical
 
-This includes any physical interactions or properties, such as physical energy, force, blind causation, collision, non-biological movement, mass, and other physical dimensions. For example, if someone trips and falls, then the trajectory of their fall depends on things like their mass, the speed they were going, gravity, and the position or shape of the obstacle. 
+This includes any physical interactions or properties, such as physical energy, force, blind causation, collision, non-biological movement, mass, and other physical dimensions. For example, if someone trips and falls, then the trajectory of their fall depends on things like their mass, the speed they were going, gravity, and the position or shape of the obstacle. If my hand doesn't fit into a glove, it's because of the relative sizes of the hand and glove.
 
 ## Chemical
 
