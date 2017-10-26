@@ -13,7 +13,7 @@ This is straightforwardly a matter of chemicals and chemical interactions. Some 
 
 ## Biological
 
-This depends on on living beings. Related ideas include the constituents of living beings (e.g. cells, body parts), the drives of living beings (e.g. survival, mating, nutrition), or typical processes of living beings (e.g. birth, growth, death). 
+This depends on living beings. Related ideas include the constituents of living beings (e.g. cells, body parts), the drives of living beings (e.g. survival, mating, nutrition), or typical processes of living beings (e.g. birth, growth, death). 
 
 ## Neuroscience
 
